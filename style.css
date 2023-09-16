@@ -1,0 +1,58 @@
+
+html {
+    overflow-y: auto;
+}
+
+body {
+    background-color: #193c3e;
+  }
+  
+img.banner {
+    margin-top: -1%;
+    margin-left: -1%;
+    margin-right: -1%;
+}
+
+p {
+    text-align: center;
+    color: #feae34;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+}
+
+h1 {
+    text-align: center;
+    color: #feae34;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+img.game-thumbnails {
+    border-radius: 5%;
+}
+
+div.projects {
+    text-align: center;
+}
+  
+  ul {
+    display: inline-block;
+    text-align: left;
+    list-style-type: none;
+}
+
+li {
+    float: left;
+    text-align: center;
+    padding: 16px;
+}
+
+a {
+    text-align: center;
+    color: #f77622;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;  
+    display: block;
+    margin-top: 10px; 
+}
+
+
