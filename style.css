@@ -26,6 +26,12 @@ h1 {
     font-family: 'Times New Roman', Times, serif;
 }
 
+h2 {
+    text-align: center;
+    color: #feae34;
+    font-family: 'Times New Roman', Times, serif;
+}
+
 img.game-thumbnails {
     border-radius: 5%;
 }
